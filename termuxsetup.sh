@@ -10,7 +10,7 @@ cd etc
 rm  bash.bashrc
 cd ..
 cd 
-cd  TERMUX-SETUP
+cd  TERMUXSETUP
 cp bash.bashrc //data/data/com.termux/files/usr/etc
   
 cd ..
