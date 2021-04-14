@@ -14,5 +14,5 @@ cd  TERMUX-SETUP
 cp bash.bashrc //data/data/com.termux/files/usr/etc
   
 cd ..
-cd TERMUX-SETUP
+cd TERMUXSETUP
 mv terminal.mp3 /$HOME
