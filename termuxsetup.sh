@@ -44,10 +44,10 @@ cd
 cd ..
 cd usr
 cd etc
-rm mod
+rm motd
 cd
 cd TERMUXSETUP
-cp mod /data/data/com.termux/files/usr/etc
+cp motd/data/data/com.termux/files/usr/etc
 clear
 sleep 2
 echo "        *********DONE*********"
