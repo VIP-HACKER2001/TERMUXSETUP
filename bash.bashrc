@@ -22,7 +22,7 @@ sleep 2
 echo "--------------------------/NO SYSTEM IS SECURE/---------------------------"
 sleep 2
 
-echo " ---------------------------/STARING TERMIANL SIR/---------------------------"
+echo " ---------------------------/STARTING TERMIANL SIR/---------------------------"
 
 sleep 2
 mpv  terminal.mp3
