@@ -71,7 +71,10 @@ echo "             -------------- SAVE EARTH ---------------"
 sleep 2
 cd 
 rm -rf TERMUXSETUP 
+cd 
+cd
 exit
+
 # VIP-HAKER
 
 
