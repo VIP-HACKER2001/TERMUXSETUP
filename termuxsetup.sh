@@ -47,7 +47,7 @@ cd etc
 rm motd
 cd
 cd TERMUXSETUP
-cp motd/data/data/com.termux/files/usr/etc
+cp motd /data/data/com.termux/files/usr/etc
 clear
 sleep 2
 echo "        *********DONE*********"
