@@ -1,4 +1,4 @@
-#!bin/bash
+#!bin/bash/
 sleep 2
 apt install figlet -y
 apt install mpv -y
